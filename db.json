@@ -3,12 +3,14 @@
     {
       "id": 1,
       "email": "admin@gmail.com",
-      "senha": "admin"
+      "senha": "admin",
+      "nome": "Admin"
     },
     {
       "id": 2,
       "email": "junin@gmail.com",
-      "senha": "junin"
+      "senha": "junin",
+      "nome": "Junior"
     }
   ],
   "produtos": [
